@@ -1,0 +1,4 @@
+Top 3 most similar words for query word "me":
+my: 32.657611881514015
+i: 34.57088649609048
+you: 34.79157652038301
